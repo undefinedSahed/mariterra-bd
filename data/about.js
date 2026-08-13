@@ -37,7 +37,7 @@ const ABOUT_DATA = {
 
 const HERO_DATA = {
   welcome: "WELCOME TO",
-  company: "MARITERRA CORPORATION",
+  company: "Mariterra Corporation (Singapore) Pte. Ltd.",
   established: "ESTABLISHED IN 2020",
   tagline1: "Integrated Solutions.",
   tagline2: "Delivered with Excellence.",
@@ -55,14 +55,15 @@ const GALLERY_DATA = [
 ];
 
 const CONTACT_DATA = {
-  phone: "+880 1335 050011",
   bangladesh: {
     name: "Mariterra Corporation",
+    phone: "+880 1335 050011",
     email: "ops@mariterrabd.com",
     office: "Tower 71, 9th Floor, 71 Agrabad C/A, Chittagong 4100, Bangladesh.",
   },
   singapore: {
     name: "Mariterra Corporation (Singapore) Pte. Ltd.",
+    phone: "+65 9162 1164",
     email: "singapore@mariterrabd.com",
     office:
       "Level 29, IOI Central Boulevard Towers, 2 Central Blvd, 018916, Singapore.",
