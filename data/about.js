@@ -2,11 +2,11 @@ const ABOUT_DATA = {
   company: {
     title: "ABOUT MARITERRA CORPORATION",
     paragraphs: [
-      "Established in 2020, Mariterra Corporation is a diversified business and service-oriented enterprise dedicated to delivering integrated solutions across both land-based and maritime sectors. Since its establishment, the company has been actively involved in providing strategic support, operational expertise, and project execution solutions across multiple industries, building a strong reputation for reliability, efficiency, and professionalism.",
-      "Mariterra Corporation specializes in a broad range of sectors including maritime construction, maritime logistics, ship chartering, ship brokerage, ship sale & purchase, land construction support, infrastructure development, heavy equipment support, and project consultancy services. With a diversified operational structure, we provide end-to-end solutions tailored to meet the demands of both private and public sector projects.",
-      "Over the years, we have successfully planned, supported, and delivered various government and private construction projects, alongside multiple maritime chartering operations and maritime project logistics, contributing to the smooth execution of critical infrastructure and marine-related developments. Our proven track record reflects our ability to manage complex operations with precision, professionalism, and strategic efficiency.",
-      "At Mariterra Corporation, we believe successful projects require more than resources — they require experience, coordination, and execution excellence. Our expertise in heavy equipment deployment, logistics support, vehicle management, manpower solutions, and infrastructure consultancy enables us to deliver complete project support from planning to completion.",
-      "From marine infrastructure development and vessel operations to land construction logistics and infrastructure support, our commitment remains focused on operational excellence, sustainable growth, and long-term value creation for our clients and partners.",
+      "Established in Singapore in 2020, Mariterra Corporation (Singapore) Pte. Ltd. represents the culmination of an international business journey that began in 2014 with the establishment of Mariterra Brokerage & Development Ltd. Building upon its initial foundation, the organization subsequently expanded its international presence through the establishment of an office in Jebel Ali Free Zone (JAFZA), Dubai, United Arab Emirates, under the name Mariterra Brokerage & Development FZE LLC. As part of its strategic growth and organizational development, the group's diverse business activities, expertise, and service portfolios were consolidated under a unified corporate structure in Singapore in 2020, establishing Mariterra Corporation as an integrated, one-stop business and solutions provider.",
+      "Today, with a business heritage dating back to 2014 and an international network of commercial and industry relationships, Mariterra Corporation operates across a diversified range of sectors, delivering comprehensive solutions in maritime, shipping, energy, infrastructure, construction, and international trade. The corporation specializes in ship chartering brokerage involving tankers- LPG carriers, LNG carriers and other specialized vessels, covering spot, voyage charter, time charter, and long-term employment arrangements. Its shipping services also encompass ship sale and purchase (S&P) brokerage, vessel acquisition and disposal facilitation, vessel management, and comprehensive pre-fixture and post-fixture support, including market research, vessel employment, commercial negotiations, charter party drafting and administration, fixture coordination, voyage monitoring, operational follow-up, and overall chartering-related commercial management.",
+      "Beyond its maritime activities, Mariterra is actively engaged in international energy and commodity trading facilitation, supporting the sourcing, procurement, sales, and purchase of petroleum products and energy commodities, including EN590 automotive diesel, D2 gas oil, Jet A-1 aviation fuel, LPG, LNG, fuel oil, and other refined petroleum products. Its commercial capabilities extend to buyer and seller identification, supplier sourcing, transaction facilitation, commercial negotiations, trade documentation, international trade instruments, logistics coordination, and cross-border supply-chain solutions.",
+      "The corporation also provides commercial and technical support across maritime construction, shipbuilding, land-based construction, infrastructure development, industrial projects, and heavy equipment sourcing and procurement. Its broader professional services include project consultancy, strategic business development, international commercial brokerage, import and export facilitation, contract drafting and management, procurement support, business representation, and end-to-end project coordination and execution.",
+      "Combining commercial insight, technical expertise, operational capabilities, and strategic international partnerships, Mariterra Corporation is committed to facilitating complex business transactions and delivering reliable, efficient, and commercially viable solutions. With its roots firmly established in 2014 and its strategic corporate base in Singapore, the corporation continues to strengthen its global network and build lasting business relationships across international markets.",
     ],
     contact: "For any inquiry, Please contact ops@mariterrabd.com",
   },
@@ -56,16 +56,21 @@ const GALLERY_DATA = [
 
 const CONTACT_DATA = {
   bangladesh: {
-    name: "Mariterra Corporation",
+    name: "🇧🇩 Bangladesh Office",
     phone: "+880 1335 050011",
     email: "ops@mariterrabd.com",
     office: "Tower 71, 9th Floor, 71 Agrabad C/A, Chittagong 4100, Bangladesh.",
   },
   singapore: {
-    name: "Mariterra Corporation (Singapore) Pte. Ltd.",
+    name: "🇸🇬 Corporate Headquarters",
     phone: "+65 9162 1164",
     email: "singapore@mariterrabd.com",
-    office:
-      "Level 29, IOI Central Boulevard Towers, 2 Central Blvd, 018916, Singapore.",
+    office: "Level 29, IOI Central Boulevard Towers, 2 Central Blvd, 018916, Singapore.",
   },
+  uae: {
+    name: "🇦🇪 UAE Office",
+    phone: "+971 50 123 4567",
+    email: "ops@mariterrabd.com",
+    office: "Jafza One Complex, 17th Floor, Sheikh Zayed Road, Mena Jabal Ali, Jebel Ali Free Zone, Dubai, United Arab Emirates."
+  }
 };

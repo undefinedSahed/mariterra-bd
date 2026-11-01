@@ -146,10 +146,9 @@ function renderContactInfo() {
     <div class="contact-detail animate-on-scroll animate-delay-3">
       <div class="contact-detail-icon">💼</div>
       <div class="contact-detail-content">
-        <h4>🇧🇩 Bangladesh Office</h4>
-        <p>${CONTACT_DATA.bangladesh.office}</p>
-        <a href="tel:${CONTACT_DATA.bangladesh.phone}">Phone: ${CONTACT_DATA.bangladesh.phone}</> <br/>
-        <a href="mailto:${CONTACT_DATA.bangladesh.email}">Email: ${CONTACT_DATA.bangladesh.email}</a>
+        <h4>🇦🇪 UAE Office</h4>
+        <p>${CONTACT_DATA.uae.office}</p>
+        <a href="mailto:${CONTACT_DATA.uae.email}">Email: ${CONTACT_DATA.uae.email}</a>
       </div>
     </div>
   `;
