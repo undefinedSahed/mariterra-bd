@@ -59,18 +59,20 @@ const CONTACT_DATA = {
     name: "🇧🇩 Bangladesh Office",
     phone: "+880 1335 050011",
     email: "ops@mariterrabd.com",
-    office: "Tower 71, 9th Floor, 71 Agrabad C/A, Chittagong 4100, Bangladesh.",
+    address: "Tower 71, 9th Floor, 71 Agrabad C/A, Chittagong 4100, Bangladesh.",
   },
   singapore: {
     name: "🇸🇬 Corporate Headquarters",
+    office: "Mariterra Corporation Pte. Ltd.",
     phone: "+65 9162 1164",
     email: "singapore@mariterrabd.com",
-    office: "Level 29, IOI Central Boulevard Towers, 2 Central Blvd, 018916, Singapore.",
+    address: "Level 29, IOI Central Boulevard Towers, 2 Central Blvd, 018916, Singapore.",
   },
   uae: {
     name: "🇦🇪 UAE Office",
+    office: "Mariterra Brokerage & Development FZE LLC",
     phone: "+971 50 123 4567",
     email: "ops@mariterrabd.com",
-    office: "Jafza One Complex, 17th Floor, Sheikh Zayed Road, Mena Jabal Ali, Jebel Ali Free Zone, Dubai, United Arab Emirates."
+    address: "Jafza One Complex, 17th Floor, Sheikh Zayed Road, Mena Jabal Ali, Jebel Ali Free Zone, Dubai, United Arab Emirates."
   }
 };

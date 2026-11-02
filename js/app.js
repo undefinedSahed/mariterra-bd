@@ -137,9 +137,10 @@ function renderContactInfo() {
       <div class="contact-detail-icon">🏢</div>
       <div class="contact-detail-content">
         <h4>🇸🇬 Corporate Headquarters</h4>
-        <p>${CONTACT_DATA.singapore.office}</p>
-        <a href="tel:${CONTACT_DATA.singapore.phone}">Phone: ${CONTACT_DATA.singapore.phone}</> <br/>
-        <a href="mailto:${CONTACT_DATA.singapore.email}">Email: ${CONTACT_DATA.singapore.email}</>
+        <h4>${CONTACT_DATA.singapore.office}</h4>
+        <p>${CONTACT_DATA.singapore.address}</p>
+        <a href="tel:${CONTACT_DATA.singapore.phone}">Phone: ${CONTACT_DATA.singapore.phone}</a> <br/>
+        <a href="mailto:${CONTACT_DATA.singapore.email}">Email: ${CONTACT_DATA.singapore.email}</a>
       </div>
     </div>
 
@@ -147,7 +148,8 @@ function renderContactInfo() {
       <div class="contact-detail-icon">💼</div>
       <div class="contact-detail-content">
         <h4>🇦🇪 UAE Office</h4>
-        <p>${CONTACT_DATA.uae.office}</p>
+        <h4>${CONTACT_DATA.uae.office}</h4>
+        <p>${CONTACT_DATA.uae.address}</p>
         <a href="mailto:${CONTACT_DATA.uae.email}">Email: ${CONTACT_DATA.uae.email}</a>
       </div>
     </div>
