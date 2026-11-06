@@ -752,7 +752,7 @@ img {
   font-size: 0.8rem;
   font-weight: 700;
   color: var(--navy);
-  text-transform: uppercase;
+  text-transform: capitalize;
   letter-spacing: 0.5px;
   margin-bottom: 4px;
 }
